@@ -1,4 +1,4 @@
-package package1;
+package main.java.com.pil.moby.evaluacion_tecnica.primer_cuestionario;
 
 public class EvaluacionTecnicaPil {
 
